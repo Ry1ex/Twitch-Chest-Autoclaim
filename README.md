@@ -1,5 +1,5 @@
 # Twitch Chest Autoclaim
-![Banner](Resources/Banner.png)
+![Banner](Resources/Banners.png)
 
 ## Table des Matières
 - [Exemple](#exemple)
