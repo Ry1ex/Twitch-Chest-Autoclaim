@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Twitch Coffre Autoclaim Customisé avec Statistiques
+// @name         Twitch Chest Autoclaim (Compataible Opera , Chrome , Firefox)
 // @version      1.1.7
 // @description  Automatisation personnalisée pour la réclamation des points de chaîne Twitch avec statistiques et estimation des gains
 // @author       Ry1ex
